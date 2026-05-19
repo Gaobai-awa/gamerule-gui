@@ -1,0 +1,12 @@
+{
+  "text.gamerulegui.title": "Game Rule Editor",
+  "text.gamerulegui.search": "Search rules...",
+  "text.gamerulegui.close": "Close",
+  "text.gamerulegui.config_hint": "Click the button below to open the gamerule editor.",
+  "text.gamerulegui.on": "ON",
+  "text.gamerulegui.off": "OFF",
+  "text.gamerulegui.opening": "§a[GameruleGUI] Opening gamerule editor...",
+  "text.gamerulegui.only_player": "§c[GameruleGUI] This command can only be used by a player.",
+  "text.gamerulegui.showlog_set": "§c[GameruleGUI] Chat logging set to: %s",
+  "text.gamerulegui.changed": "§a[GameruleGUI] §f%s §7→ §e%s"
+}

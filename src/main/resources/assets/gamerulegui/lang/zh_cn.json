@@ -1,0 +1,12 @@
+{
+  "text.gamerulegui.title": "游戏规则编辑器",
+  "text.gamerulegui.search": "搜索规则...",
+  "text.gamerulegui.close": "关闭",
+  "text.gamerulegui.config_hint": "点击下方按钮打开游戏规则编辑器。",
+  "text.gamerulegui.on": "开启",
+  "text.gamerulegui.off": "关闭",
+  "text.gamerulegui.opening": "§a[游戏规则GUI] 正在打开游戏规则编辑器...",
+  "text.gamerulegui.only_player": "§c[游戏规则GUI] 该命令只能由玩家执行。",
+  "text.gamerulegui.showlog_set": "§c[游戏规则GUI] 聊天输出已设置为: %s",
+  "text.gamerulegui.changed": "§a[游戏规则GUI] §f%s §7→ §e%s"
+}

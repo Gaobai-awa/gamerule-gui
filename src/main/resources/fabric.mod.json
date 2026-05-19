@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "gamerulegui",
+  "version": "${version}",
+  "name": "Gamerule GUI Mod",
+  "description": "Open a GUI to view and modify all gamerules with /gamerule-gui",
+  "authors": [
+    "Gaobaiawa",
+    "deepseek (V4-Flash)"
+  ],
+  "contact": {
+    "homepage": "https://github.com/Gaobai-awa/gamerule-gui",
+    "sources": "https://github.com/Gaobai-awa/gamerule-gui",
+    "issues": "https://github.com/Gaobai-awa/gamerule-gui/issues"
+  },
+  "license": "MIT",
+  "icon": "assets/gamerulegui/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["net.gamerulegui.GameruleGuiMod"],
+    "client": ["net.gamerulegui.client.GameruleGuiClient"],
+    "modmenu": ["net.gamerulegui.client.ModMenuIntegration"]
+  },
+  "mixins": [],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": ">=1.20.1 <1.21",
+    "java": ">=17"
+  }
+}
