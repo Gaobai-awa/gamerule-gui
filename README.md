@@ -1,5 +1,7 @@
 # Gamerule GUI Mod
 
+> 🤖 **AI 辅助创作** — 本模组由 **Gaobaiawa** 与 **DeepSeek V4-Flash** 协作完成
+
 一个 Fabric 模组，通过 `/gamerule-gui` 命令打开图形界面，可视化查看和修改所有游戏规则（gamerule）。
 
 ## 功能
@@ -53,4 +55,4 @@ cd gamerule-gui
 ## 作者
 
 - **Gaobaiawa**
-- **DeepSeek V4-Flash** — AI 辅助创作
+- **DeepSeek V4-Flash**
