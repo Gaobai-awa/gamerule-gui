@@ -22,7 +22,7 @@
 
 ## 截图
 
-*(等待添加)*
+![Gamerule GUI](img/img.png)
 
 ## 环境要求
 
