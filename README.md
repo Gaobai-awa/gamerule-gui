@@ -53,4 +53,4 @@ cd gamerule-gui
 ## 作者
 
 - **Gaobaiawa**
-- **deepseek (V4-Flash)**
+- **DeepSeek V4-Flash** — AI 辅助创作
